@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEditor", "TextEditor\TextEditor.csproj", "{56FBC8B7-AD90-445B-829F-5DA5BB725C02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEditor.BL", "TextEditor.BL\TextEditor.BL.csproj", "{B7C90A4C-33FA-411A-8C76-7D07A5A5C91A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56FBC8B7-AD90-445B-829F-5DA5BB725C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FBC8B7-AD90-445B-829F-5DA5BB725C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FBC8B7-AD90-445B-829F-5DA5BB725C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FBC8B7-AD90-445B-829F-5DA5BB725C02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7C90A4C-33FA-411A-8C76-7D07A5A5C91A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C90A4C-33FA-411A-8C76-7D07A5A5C91A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C90A4C-33FA-411A-8C76-7D07A5A5C91A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C90A4C-33FA-411A-8C76-7D07A5A5C91A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3066DCA3-4D9A-499F-8C40-C2F8C888002A}
+	EndGlobalSection
+EndGlobal
